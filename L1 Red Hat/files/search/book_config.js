@@ -1,1 +1,0 @@
-var textForPages =["THEReadingSeriesLEVEL01","Iseearedhat.Itisonthebed.Thecatisonthemat","The cThe caThe ha","A dog rThe dog s","YOUDIDITLET\u2019SREAD","WORDSPRACT01MatFlatRunBedHatJumpBarksRug05030702060408"]
